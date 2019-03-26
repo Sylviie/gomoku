@@ -1,3 +1,3 @@
 This is a game Gomoku in java
-This has been edited by Toma
+This has been edited by Toma edit by Toma
 This is second edition by Toma
